@@ -40,13 +40,6 @@ Página institucional do clube.
 
 ---
 
-## 📊 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=RafLopes&show_icons=true&hide_border=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=RafLopes&layout=compact&hide_border=true)
-
----
-
 ## 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafLopes)
