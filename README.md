@@ -26,6 +26,10 @@ Sistema completo de gestão de torneios de xadrez, usado pelo Clube de Xadrez Er
 Emparceiramento Suíço e Schuring, rating ELO automático, copa anual, autenticação de administradores e regras de segurança no Firestore.
 `JavaScript` `Firebase` `Bootstrap` · [Demo ao vivo](https://rafatournament.web.app)
 
+### 🏋️ [RafaGym](https://github.com/RafLopes/RafaGym)
+Aplicativo web de treinos de academia: catálogo de exercícios, criação de treinos personalizados, registro de cargas, histórico, medidas corporais e ranking entre usuários.
+`JavaScript` `Firebase` `Semantic UI` · [Demo ao vivo](https://rafapersonalgym.web.app)
+
 ### 🤖 [TicTacToe Engine](https://github.com/RafLopes/TicTacToeEngine)
 Jogo da velha em que o computador nunca perde: busca dos melhores lances com **Minimax** e **poda Alfa-Beta**.
 `JavaScript` `Algoritmos` · [Jogar](https://projetos-rafaellopes.web.app/Projetos/TicTacToe/index.html)
